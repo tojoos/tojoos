@@ -2,7 +2,7 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I'm a Software Engineer at IBM and IV year student of Automatic and Robotics on the Silesian University Of Technology.
+I'm a Software Engineer at IBM and IV year student of Automatic control and Robotics on the Silesian University Of Technology.
 Everyday I'm developing my programming skills working in Java and cloud technologies - Docker & Kubernetes and Openshift.
 - 🔭 I’m currently working on _HelpNow_ - innovative tool that is helping with immigration process in Poland
 - 🌱 I’m currently learning _Go_, _Angular_.
@@ -34,7 +34,7 @@ Everyday I'm developing my programming skills working in Java and cloud technolo
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tojoos&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com?user=tojoos&theme=radical&hide_border=true)](https://git.io/streak-stats) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tojoos&show_icons=true&card_width=420&count_private=true&include_all_commits=true&hide_border=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=tojoos&theme=radical&hide_border=true)
 
 ## 📫 How to reach me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jan-olszówka-051b54209/) 
