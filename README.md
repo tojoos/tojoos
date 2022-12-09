@@ -34,7 +34,8 @@ Everyday I'm developing my programming skills working in Java and cloud technolo
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tojoos&show_icons=true&card_width=380&count_private=true&include_all_commits=true&hide_border=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=tojoos&theme=radical&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api?username=tojoos&show_icons=true&count_private=true&hide_title=true&card_width=400&include_all_commits=true&hide_border=true&theme=radical" alt="drawing" width="402"/> <img src="https://streak-stats.demolab.com?user=tojoos&theme=radical&hide_border=true" alt="drawing" width="420"/>
 
 ## 📫 How to reach me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jan-olszówka-051b54209/) 
