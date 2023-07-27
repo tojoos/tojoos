@@ -5,7 +5,7 @@
 I'm a Software Engineer at IBM and Bachelor in Automatic control and Robotics on the Silesian University Of Technology currently pursuing my Master's degree in Computer Science.
 Everyday I'm developing my programming skills working in Java and cloud technologies - Docker & Kubernetes and Openshift.
 - 🔭 I’m currently working on _HelpNow_ - innovative tool that is helping with immigration process in Poland
-- 🌱 I’m currently learning _Go_, _Angular_.
+- 🌱 I’m currently learning _Angular_, _Machine learning_
 - 👯 I’m looking to collaborate on interesting opensource projects. Java, Cloud, Data/AI are my preferred technologies.
 <br>
 
@@ -21,6 +21,7 @@ Everyday I'm developing my programming skills working in Java and cloud technolo
 <img src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=for-the-badge" alt="JUnit5 Badge">
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=for-the-badge" alt="Apache Maven Badge">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=for-the-badge" alt="IntelliJ IDEA Badge"> 
+![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 
 <br>
 
