@@ -42,3 +42,7 @@ Everyday I'm developing my programming skills working in Java and cloud technolo
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jan-olszówka-051b54209/) 
 [<img src="https://img.shields.io/badge/Mail-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge" alt="Mail Badge">](mailto:olszowkabusiness@gmail.com) 
 
+
+## Contributions calendar
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
