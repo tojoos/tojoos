@@ -12,8 +12,8 @@ Everyday I'm developing my programming skills working in Java and cloud technolo
 
 
 <div class="image-container">
-  <img src="metrics.plugin.languages.indepth.svg" alt="" width="390"/>
-  <img align="top" src="metrics.plugin.languages.recent.svg" alt="" width="390"/>
+  <img src="metrics.plugin.languages.indepth.svg" alt="" width="400"/>
+  <img align="top" src="metrics.plugin.languages.recent.svg" alt="" width="400"/>
 </div>
 
 <br>
@@ -41,7 +41,7 @@ Everyday I'm developing my programming skills working in Java and cloud technolo
 ## 📈 GitHub Stats
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=tojoos&card_width=400&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&hide_title=true" alt="drawing" width="388"/> <img src="https://streak-stats.demolab.com?user=tojoos&theme=radical&hide_border=true" alt="drawing" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tojoos&card_width=400&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&hide_title=true" alt="drawing" width="408"/> <img src="https://streak-stats.demolab.com?user=tojoos&theme=radical&hide_border=true" alt="drawing" width="410"/>
 
 
 ## 📫 How to reach me
