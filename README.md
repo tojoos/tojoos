@@ -4,16 +4,6 @@
 
 I'm a Software Engineer at IBM and Bachelor in Automatic control and Robotics on the Silesian University Of Technology currently pursuing my Master's degree in Computer Science.
 Everyday I'm developing my programming skills working in Java and cloud technologies - Docker & Kubernetes and Openshift.
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,openshift,mysql,bash,maven,git,idea" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,css,html,ts,go" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on _HelpNow_ - innovative tool that is helping with immigration process in Poland
 - 🌱 I’m currently learning _Angular_, _Machine learning_
@@ -21,29 +11,30 @@ Everyday I'm developing my programming skills working in Java and cloud technolo
 <br>
 
 
+<div class="image-container">
+  <img src="metrics.plugin.languages.indepth.svg" alt=""/>
+  <img align="top" src="metrics.plugin.languages.recent.svg" alt="" class="second-image"/>
+</div>
 
+<br>
+
+</div>
 
 ## 🧬 My tech stack
 ### ⚡ Core technologies
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" alt="Kubernetes Badge"> 
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge"> 
-<img src="https://img.shields.io/badge/Red%20Hat%20Open%20Shift-E00?logo=redhatopenshift&logoColor=fff&style=for-the-badge" alt="Red Hat Open Shift Badge"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge"> 
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shellscript Badge"> 
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge">
-<img src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=for-the-badge" alt="JUnit5 Badge">
-<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=for-the-badge" alt="Apache Maven Badge">
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=for-the-badge" alt="IntelliJ IDEA Badge"> 
-![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,openshift,mysql,bash,maven,git,idea" />
+</a>
 
 <br>
 
 ### 🔮 Know something about
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" alt="C Badge">  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge" alt="Angular Badge">
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge" alt="Go Badge">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=angular,css,html,ts,go,c" />
+</a>
+
 
 <br>
 
@@ -51,6 +42,7 @@ Everyday I'm developing my programming skills working in Java and cloud technolo
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=tojoos&card_width=400&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&hide_title=true" alt="drawing" width="438"/> <img src="https://streak-stats.demolab.com?user=tojoos&theme=radical&hide_border=true" alt="drawing" width="420"/>
+
 
 ## 📫 How to reach me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jan-olszówka-051b54209/) 
