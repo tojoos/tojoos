@@ -2,11 +2,11 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I'm a Software Engineer at IBM and Bachelor in Automatic control and Robotics on the Silesian University Of Technology currently pursuing my Master's degree in Computer Science.
-Everyday I'm developing my programming skills working in Java and cloud technologies - Docker & Kubernetes and Openshift.
+I'm a Software Engineer at IBM that recently completed my Master's degree in Computer Science.
+On daily bases I'm working with Java and cloud technologies - Docker & Kubernetes and Openshift.
 
 - 🔭 I’m currently working on _HelpNow_ - innovative tool that is helping with immigration process in Poland
-- 🌱 I’m currently learning _Angular_, _Machine learning_
+- 🌱 I’m currently learning _Machine learning_
 - 👯 I’m looking to collaborate on interesting opensource projects. Java, Cloud, Data/AI are my preferred technologies.
 <br>
 
